@@ -20,9 +20,11 @@ But couple of things were quite new and might be useful:
 
 Command line complete status
 
-##### Learn command line
+![Command line complete status](https://github.com/yuittti/kottans-frontend/blob/master/task_linux_cli/linux-cli-status.png)
+
+#### Learn command line
 I like such interactive courses were you are receiving the knowledges and you are practicing in the same time and you are remembering information by repeating simple things many times. I didn't expect to see in this course the new things, but I was surprised that I found some. I am not sure if I will use all of them often in future, but some of them seems to be pretty useful. So for me the information below was definetly new:
-- options for `ls` command, especially `-t' for sorting by date
+- options for `ls` command, especially `-t` for sorting by date
 - using the `mv` command for renaming files
 - `cat` with `>>` to add content to existing file
 - the pipes `|` for combining different commands
@@ -32,7 +34,7 @@ I like such interactive courses were you are receiving the knowledges and you ar
 - command `history` to list the terminal history
 - command `grep` - it wasn't new at all for me, but the shown way of its using is interesting as well
 
-##### HTTP
+#### HTTP
 Both articles are very informative. This is a really well structured information about basics knowledge of how does the HTTP protocol works under the hood. 
 
 I liked the thesis 
