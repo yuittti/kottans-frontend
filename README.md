@@ -48,3 +48,19 @@ Also it was nice to read in one place all the information about:
 - types of request and response headers
 
 The most interesting part of 2nd article was about basics of identification and authentication processes, but would be nice to dive deeper in this part.
+
+#### 3. Git for Team Collaboration
+(https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
+
+## Git Collaboration
+
+![What is Version Control](https://github.com/yuittti/kottans-frontend/blob/master/task_git_collaboration/version-control.png)
+
+![GitHub & Collaboration](https://github.com/yuittti/kottans-frontend/blob/master/task_git_collaboration/github-collaboration.png)
+
+- I liked an explanation what each git command do and how each git command works under the hood.
+- This is not about git, by the set of command `mkdir test && cd $_` is very useful not to type 2 commands separately.
+- The `git log -p` to display the actual changes made to a file
+- It was interesting to read about _Reset vs Revert_ as Reverting creates a new commit that reverts or undos a previous commit. Resetting, on the other hand, erases commits!
+- Usefull information about `git fetch` vs `git pull`. Git fetch is used to retrieve commits from a remote repository's branch but it does not automatically merge the local branch with the remote tracking branch after those commits have been received. And git pull is doing fetch and then merge.
+- Never used `git log --grep` to filter the commits by the commit message
